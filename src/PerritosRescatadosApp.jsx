@@ -406,7 +406,7 @@ function Colabora() {
             rel="noopener noreferrer"
             className="inline-flex px-5 py-3 rounded-full font-semibold text-white bg-[#F5793B] hover:brightness-95"
           >
-            Donar ahora
+            Donar ahora 
           </a>
           <a
             href="https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=0335e4d01d024164a176c82074e2b61b"
