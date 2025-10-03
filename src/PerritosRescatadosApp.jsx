@@ -419,7 +419,7 @@ function Colabora() {
         <br></br>
 
         <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
-          {/* DONAR AHORA: URL COMPLETA */}
+          {/* DONAR AHORA: URL COMPLETA bla bla*/}
           <button
             onClick={() => 
               window.open('https://link.mercadopago.com.ar/perritosrescatados1', '_blank', 'noopener,noreferrer')
@@ -430,7 +430,7 @@ function Colabora() {
             Donar ahora 🎁
           </button>
           
-          {/* Mismo cambio para el botón de Suscripción */}
+          {/* Mismo cambio para el botón de Suscripción bla bla */}
           <button
             onClick={() => 
               window.open('https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=0335e4d01d024164a176c82074e2b61b', '_blank', 'noopener,noreferrer')
