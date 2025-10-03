@@ -420,26 +420,24 @@ function Colabora() {
 
         <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
           {/* DONAR AHORA: URL COMPLETA bla bla*/}
-          <button
-            onClick={() => 
-              window.open('https://link.mercadopago.com.ar/perritosrescatados1', '_blank', 'noopener,noreferrer')
-            }
-            className="inline-flex px-5 py-3 rounded-full font-semibold text-white bg-[#F5793B] hover:brightness-95 transition-all shadow-md hover:shadow-lg"
-            aria-label="Donar a través de Mercado Pago"
+          <a
+            href="https://link.mercadopago.com.ar/perritosrescatados1"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex px-5 py-3 rounded-full font-semibold text-white bg-[#F5793B] hover:brightness-95"
           >
-            Donar ahora 🎁
-          </button>
+            Donar ahora
+           </a>
           
           {/* Mismo cambio para el botón de Suscripción bla bla */}
-          <button
-            onClick={() => 
-              window.open('https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=0335e4d01d024164a176c82074e2b61b', '_blank', 'noopener,noreferrer')
-            }
-            className="inline-flex px-5 py-3 rounded-full font-semibold text-white bg-[#38629F] hover:brightness-95 transition-all shadow-md hover:shadow-lg"
-            aria-label="Suscribirme a través de Mercado Pago"
-          >
-            Suscribirme ✨
-          </button>
+          <a
+            href="https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=0335e4d01d024164a176c82074e2b61b"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex px-5 py-3 rounded-full font-semibold text-white bg-[#38629F] hover:brightness-95"
+          >
+            Suscribirme
+          </a>
         </div>
       </div>
     </section>
