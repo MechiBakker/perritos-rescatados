@@ -401,13 +401,17 @@ function Colabora() {
 
         <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
           <a
-            href="#datos"
+            href="https://link.mercadopago.com.ar/perritosrescatados1"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex px-5 py-3 rounded-full font-semibold text-white bg-[#F5793B] hover:brightness-95"
           >
             Donar ahora
           </a>
           <a
-            href="#membresia"
+            href="https://www.mercadopago.com.ar/subscriptions/checkout?preapproval_plan_id=0335e4d01d024164a176c82074e2b61b"
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex px-5 py-3 rounded-full font-semibold text-white bg-[#38629F] hover:brightness-95"
           >
             Suscribirme
