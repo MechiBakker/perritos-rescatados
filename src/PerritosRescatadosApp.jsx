@@ -427,7 +427,7 @@ function Colabora() {
             className="inline-flex px-5 py-3 rounded-full font-semibold text-white bg-[#F5793B] hover:brightness-95 transition-all shadow-md hover:shadow-lg"
             aria-label="Donar a través de Mercado Pago"
           >
-            Donar ahora
+            Donar ahora 🎁
           </button>
           
           {/* Mismo cambio para el botón de Suscripción bla bla */}
@@ -438,7 +438,7 @@ function Colabora() {
             className="inline-flex px-5 py-3 rounded-full font-semibold text-white bg-[#38629F] hover:brightness-95 transition-all shadow-md hover:shadow-lg"
             aria-label="Suscribirme a través de Mercado Pago"
           >
-            Suscribirme
+            Suscribirme ✨
           </button>
         </div>
       </div>
