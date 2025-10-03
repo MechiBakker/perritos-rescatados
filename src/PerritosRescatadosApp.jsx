@@ -396,7 +396,7 @@ function Colabora() {
         <br></br>
         <p className="text-slate-600 mt-2">
               Nuestro trabajo es completamente ad honorem. Perritos Rescatados subsiste gracias a las donaciones y el aporte económico de ustedes.</p>
-        <p className="text-slate-600 mt-2">Si querés donar o susbribirte para colaborar mensualmente:</p>
+        <p className="text-slate-600 mt-2">Si querés donar o susbribirte para colaborar mensualmente</p>
         <br></br>
 
         <div className="mt-6 flex flex-wrap items-center justify-center gap-3">
@@ -414,7 +414,7 @@ function Colabora() {
             rel="noopener noreferrer"
             className="inline-flex px-5 py-3 rounded-full font-semibold text-white bg-[#38629F] hover:brightness-95"
           >
-            Suscribirme
+            Suscribirme 
           </a>
         </div>
       </div>
